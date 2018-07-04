@@ -1,6 +1,8 @@
 # admin-panel-using-laravel
 It's an admin panel. In this admin panel you can add and manage question answers as well as existing user. there are two type of users have admin and agent
 
+NOTE: Unpack the zip file of public folder in the same public folder.
+
 framework used: laravel 4.2
 
 language : php
