@@ -1,4 +1,4 @@
-#admin-panel-using-laravel
+# admin-panel-using-laravel
 
 
 It's an admin panel. In this admin panel you can add and manage question answers as well as existing user. there are two type of users have admin and agent
@@ -16,8 +16,8 @@ database name admin_panel
 ------------------------------------------------
 admin
 ID: admin@gmail.com
-
 pass: admin1234
+
 ------------------------------------------------
 staff
 Id: staff@gmail.com
