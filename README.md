@@ -13,7 +13,6 @@ database is in DATABSE folder.
 
 database name admin_panel
 
-<<<<<<< HEAD
 
 ------------------------------------------------
 
@@ -30,21 +29,11 @@ ID: admin@gmail.com
 pass: admin1234
 
 ------------------------------------------------
+
 staff
 
 Id: staff@gmail.com
 
-=======
-------------------------------------------------
-admin
-ID: admin@gmail.com
-pass: admin1234
-
-------------------------------------------------
-staff
-Id: staff@gmail.com
-
->>>>>>> 94b802783050e0d3e13663b281d57c3c159de331
 pass: staff1234
 
 *** only gmail id ***
